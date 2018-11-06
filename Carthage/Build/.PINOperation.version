@@ -1,0 +1,24 @@
+{
+  "Mac" : [
+    {
+      "name" : "PINOperation",
+      "hash" : "3654e7eb2e4d27ec69d18ab0b66c0a9a34e12c9bd0d011724cca5d43b4770530"
+    }
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+    {
+      "name" : "PINOperation",
+      "hash" : "f0022bd378f95117df37dca5260a69f3b8a642e7c879ffc58c0934dce2638508"
+    }
+  ],
+  "commitish" : "1.1.1",
+  "iOS" : [
+    {
+      "name" : "PINOperation",
+      "hash" : "83792288fd1aae0eea9b8cd9d26addc44d5c47a798ed776516a055ec605b1a95"
+    }
+  ]
+}
